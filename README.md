@@ -1,3 +1,4 @@
+Code is private as this is a school project and to avoid cheating, if you are an employer and curious about the inner workings of this code reach out directly
 # Project 4a: MicroCaml Lexer and Parser
 Soft Deadline: April 12th, 2023 at 11:59 pm
 
